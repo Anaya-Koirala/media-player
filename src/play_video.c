@@ -1,4 +1,4 @@
-#include "gst/gst.h"
+#include <gst/gst.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
